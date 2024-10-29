@@ -1,8 +1,8 @@
 # Stack Data Structure
 
-Explore my C++ Stack Data Structure project, featuring fundamental stack operations like push, pop, view, and display! This templated stack is highly flexible and allows you to define the type of elements stored. The project includes a base stack class, an extended implementation with `MyStack`, and a menu-driven main program for interaction.
+Explore my C++ Stack Data Structure project, featuring fundamental stack operations like push, pop, view, and display! This templated stack is highly flexible and allows you to define the type of elements stored. The project includes a base stack class, an extended implementation with myStack, and a menu-driven main program for interaction.
 
-![Screen Shot](screenshot.jpeg)
+![Screen Shot](screenshot.jpg)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -75,7 +75,7 @@ Experience the stack operations in action through a recording that demonstrates 
 
 ## Code Explanation
 
-This project uses two primary classes, `Stack` and `MyStack`, with an interactive `Main.cpp` for user engagement.
+This project uses two primary classes, `Stack` and `MyStack`, with an interactive [`Main.cpp`](Main.cpp) for user engagement.
 
 - **Stack Class (Base)**:  
   Defines key properties such as `stackArray`, `stackTop`, and `maxSize`. This class serves as the foundation and declares abstract methods (`push`, `pop`, etc.) that derived classes must implement.
